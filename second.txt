@@ -3,3 +3,5 @@ this is my second file of git and github using chai or code
 adding header files.
 adding footer files.
 adding main contant blogs.
+
+fix bug two in this file
