@@ -3,3 +3,5 @@ adding another contant in first file
 
 add some contant
 add another contant
+
+another fixed pinkmode
