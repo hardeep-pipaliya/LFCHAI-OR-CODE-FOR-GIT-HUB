@@ -5,3 +5,5 @@ add some contant
 add another contant
 
 another fixed pinkmode
+
+another fixed purple mode
