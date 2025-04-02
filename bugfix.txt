@@ -4,10 +4,6 @@ this file is used to fixes the bug
 fix bug two in this file
 fix bug three in this file 
 fix bug four in this file 
-
-<<<<<<< HEAD
-finding bugs and merging to the main file
-=======
-
+ 
 finding bug five in this file
->>>>>>> child
+
