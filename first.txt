@@ -1,2 +1,6 @@
 this is my first git and github file using chai or code
 adding another contant in first file
+
+add some contant
+
+add another contant
